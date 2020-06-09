@@ -8,6 +8,7 @@ This repository contains the code for stock price prediction using LSTM.
 
 `pip3 intsall -r requirements.txt`
 
+# Results
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/#suggest-this-license)
