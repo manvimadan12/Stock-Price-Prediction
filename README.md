@@ -8,6 +8,8 @@ This repository contains the code for stock price prediction using LSTM.
 
 `pip3 intsall -r requirements.txt`
 
+# Dataset description
+
 # Results
 ![predicted price vs actual stock price](https://github.com/manvimadan12/Stock-Price-Prediction/blob/master/Screenshot%20from%202020-06-09%2019-03-45.png)
 # License
